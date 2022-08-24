@@ -1,3 +1,4 @@
+![image](https://github.com/Toqeer-Ahmad/asset/blob/main/Artboard%202.png)
 ## My Story:<br />
 AI was my passion and the reason behind doing a Master of Computer Science. However, I always ran from coding even though my project was a "Macro Recorder" which I built single-handedly using C# during my Master's. In the present era stuff like Jupyter Notebook and Python, especially the frameworks and machine learning libraries have made the job very interesting. So I took some fundamentals courses to improve my Machine Learning/Data Science/AI skills. During this, I felt a spark inside for Machine Learning/Data Science/AI and felt "wow, I can do it". Machine Learning calls to my passion; it incorporates creativity, problem-solving, and the flexibility to break and improve the code.
 
