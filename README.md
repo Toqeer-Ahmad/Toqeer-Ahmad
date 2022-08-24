@@ -33,5 +33,4 @@ AI was my passion and the reason behind doing a Master of Computer Science. Howe
 [LinkedIn](https://www.linkedin.com/in/ToqeerAhmad/)
 
 ## What's next:
-Make most of the Data Science | Machine Learning and Artificial Intelligence with me. I can't stop waiting to make things happen for you. Let's [chat](mailto:areverence@gmail.com) and discover how I can be a good fit for your requirements!<br />
-<a href="mailto:areverence@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Make most of the Data Science | Machine Learning and Artificial Intelligence with me. I can't stop waiting to make things happen for you. Let's [chat](areverence@gmail.com) and discover how I can be a good fit for your requirements!<br />
