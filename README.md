@@ -25,8 +25,8 @@ AI was my passion and the reason behind doing a Master of Computer Science. Howe
 ## Deep Learning scope:<br />
 - Text Classification<br />
 - Natural Language Processing(NLP)<br />
-- Neural Networks (ANN)<br />
-- Generative Adversarial Network<br />
+- Artificial Neural Networks (ANN)<br />
+- Generative Adversarial Network (GAN)<br />
 - Recurrent Neural Networks (RNN)<br />
 - Convolutional Neural Network (CNN)<br />
 
