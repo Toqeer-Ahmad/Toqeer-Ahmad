@@ -30,8 +30,5 @@ AI was my passion and the reason behind doing a Master of Computer Science. Howe
 - Recurrent Neural Networks (RNN)<br />
 - Convolutional Neural Network (CNN)<br />
 
-## Places to find me:<br />
-- Connect on [LinkedIn](https://www.linkedin.com/in/ToqeerAhmad/)
-
 ## What's next:<br />
 Make most of the Data Science | Machine Learning and Artificial Intelligence with me. I can't stop waiting to make things happen for you. Let's chat via areverence@gmail.com and discover how I can be a good fit for your requirements!<br />
